@@ -136,3 +136,110 @@ dbt run
 
 
 ---
+## Task 2: Data Scraping and Collection (Extract & Load)
+
+### 📂 Goal
+
+To extract raw messages, metadata, and media (images) from selected public Telegram channels related to Ethiopian medical businesses and store them in a partitioned Data Lake for downstream processing.
+
+---
+
+### 👩‍💻 Telegram Scraping Overview
+
+* **Objective**: Collect textual and visual data from public Telegram channels.
+* **Channels**:
+
+  * Chemed Telegram Channel
+  * [https://t.me/lobelia4cosmetics](https://t.me/lobelia4cosmetics)
+  * [https://t.me/tikvahpharma](https://t.me/tikvahpharma)
+  * Additional sources from [https://et.tgstat.com/medicine](https://et.tgstat.com/medicine)
+
+---
+
+### 🧰 Technologies Used
+
+* **Telethon**: Python Telegram client library for accessing the Telegram API.
+* **Python**: Core scripting language for automation.
+* **Logging**: Custom logging to track scraping status, error handling, and retries.
+
+---
+
+### 📅 Folder & Storage Strategy
+
+All scraped raw data is stored as JSON files in a structured, partitioned directory:
+
+```
+data/
+ ├── raw/
+     ├── telegram_messages/
+         ├── YYYY-MM-DD/
+             ├── channel_name.json
+```
+
+* This format allows incremental processing and better versioning of raw data.
+* JSON structure preserves original Telegram API fields: message ID, timestamp, sender, text, images, etc.
+
+---
+
+### 🚀 Execution Steps
+
+1. **API Setup**
+
+   * Created Telegram app from [https://my.telegram.org](https://my.telegram.org)
+   * Secured API ID and Hash in `.env`
+   * Loaded via `python-dotenv`
+
+2. **Scraper Features**
+
+   * Scrapes text, media, timestamps, sender IDs.
+   * Supports incremental scrape (avoids duplicate messages).
+   * Stores message metadata (channel name, message ID, etc.).
+   * Downloads and saves image attachments into structured media folders (e.g., `data/raw/images/chemed/YYYY-MM-DD/`)
+   * Logs: success/failure per channel per date.
+
+3. **Error Handling**
+
+   * Catches rate limit errors (FloodWait).
+   * Retries on timeout and network errors.
+   * Tracks scraping progress to avoid data loss or duplication.
+
+---
+
+### 🔎 Example JSON Output Structure
+
+```json
+{
+  "channel": "chemed",
+  "date": "2025-07-14",
+  "message_id": 1834,
+  "text": "New shipment of Amoxicillin available",
+  "media_type": "image",
+  "media_path": "data/raw/images/chemed/2025-07-14/amox1834.jpg"
+}
+```
+
+---
+
+### 📈 Progress Summary
+
+| Channel Name      | Status      | Messages Collected | Media Files |
+| ----------------- | ----------- | ------------------ | ----------- |
+| chemed            | Completed   | 6,500+             | 250+        |
+| lobelia4cosmetics | Completed   | 4,200+             | 300+        |
+| tikvahpharma      | In Progress | 3,000+             | 110+        |
+
+---
+
+### 📅 Next Steps
+
+* Integrate scraped data into PostgreSQL staging layer.
+* Begin cleaning and transformation with dbt.
+* Use YOLO for object detection on downloaded images to extract product types.
+
+---
+
+### 🚀 Sample Command to Run Scraper
+
+```bash
+python src/etl/scrape_telegram.py --channel chemed --days_back 5
+```
