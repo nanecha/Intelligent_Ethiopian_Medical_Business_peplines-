@@ -1,0 +1,14 @@
+2025-07-23 22:56:55,704 - INFO - Connected to PostgreSQL database
+2025-07-23 22:56:57,337 - ERROR - Fatal error in load_json_to_postgres: (psycopg2.OperationalError) connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "user"
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-23 23:01:51,626 - ERROR - Fatal error in load_json_to_postgres: Could not parse SQLAlchemy URL from given URL string
+2025-07-23 23:10:40,155 - INFO - Connected to PostgreSQL database
+2025-07-23 23:10:41,918 - ERROR - Fatal error in load_json_to_postgres: (psycopg2.OperationalError) connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  database "kara_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-07-23 23:21:55,056 - ERROR - Fatal error in load_json_to_postgres: Could not parse SQLAlchemy URL from given URL string
+2025-07-23 23:26:39,037 - INFO - Connected to PostgreSQL database
+2025-07-23 23:26:39,516 - ERROR - Fatal error in load_json_to_postgres: (psycopg2.OperationalError) connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  database "kara_db" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)

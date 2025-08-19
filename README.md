@@ -102,43 +102,9 @@ This launches:
 * FastAPI (analytical API)
 * Docker + docker-compose (environment reproducibility)
 
----
+# Task 2: Data Scraping and Collection (Extract & Load)
 
-## 🚀 Quick Start
-
-To load secrets:
-
-```python
-from src.config import TELEGRAM_API_ID, DB_HOST
-```
-
-To run scraping:
-
-```bash
-python src/scraping/scrape_telegram.py
-```
-
-To load into DB:
-
-```bash
-python src/ingestion/load_to_db.py
-```
-
-To build warehouse:
-
-```bash
-cd src/dbt_project
-dbt run
-```
-
----
-
-
-
----
-## Task 2: Data Scraping and Collection (Extract & Load)
-
-### 📂 Goal
+### 📂 Objectivies
 
 To extract raw messages, metadata, and media (images) from selected public Telegram channels related to Ethiopian medical businesses and store them in a partitioned Data Lake for downstream processing.
 
@@ -156,7 +122,7 @@ To extract raw messages, metadata, and media (images) from selected public Teleg
 
 ---
 
-### 🧰 Technologies Used
+### 🧰 tools or modules used
 
 * **Telethon**: Python Telegram client library for accessing the Telegram API.
 * **Python**: Core scripting language for automation.

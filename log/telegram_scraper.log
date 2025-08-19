@@ -1,0 +1,783 @@
+2025-07-23 15:45:30,994 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-23 15:45:36,952 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-23 15:45:54,699 - INFO - Phone migrated to 4
+2025-07-23 15:45:55,673 - INFO - Reconnecting to new data center 4
+2025-07-23 15:45:56,622 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-23 15:45:56,625 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-23 15:45:56,737 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-23 15:45:59,214 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-23 15:47:01,523 - INFO - Telegram client initialized
+2025-07-23 15:47:01,599 - INFO - Processing channel: Chemed123
+2025-07-23 15:47:06,115 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:08,071 - INFO - Downloaded photo for message 97 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_97.jpg
+2025-07-23 15:47:08,124 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:11,180 - INFO - Downloaded photo for message 96 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_96.jpg
+2025-07-23 15:47:11,215 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:12,937 - INFO - Downloaded photo for message 95 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_95.jpg
+2025-07-23 15:47:12,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:14,684 - INFO - Downloaded photo for message 94 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_94.jpg
+2025-07-23 15:47:14,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:17,414 - INFO - Downloaded photo for message 93 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_93.jpg
+2025-07-23 15:47:17,415 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:19,463 - INFO - Downloaded photo for message 92 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_92.jpg
+2025-07-23 15:47:19,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:20,715 - INFO - Downloaded photo for message 91 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_91.jpg
+2025-07-23 15:47:20,837 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:23,549 - INFO - Downloaded photo for message 90 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_90.jpg
+2025-07-23 15:47:23,552 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:26,153 - INFO - Downloaded photo for message 88 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_88.jpg
+2025-07-23 15:47:26,485 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:28,508 - INFO - Downloaded photo for message 87 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_87.jpg
+2025-07-23 15:47:28,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:30,665 - INFO - Downloaded photo for message 86 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_86.jpg
+2025-07-23 15:47:30,811 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:32,332 - INFO - Downloaded photo for message 85 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_85.jpg
+2025-07-23 15:47:32,541 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:34,068 - INFO - Downloaded photo for message 82 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_82.jpg
+2025-07-23 15:47:34,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:37,185 - INFO - Downloaded photo for message 81 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_81.jpg
+2025-07-23 15:47:37,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:39,523 - INFO - Downloaded photo for message 80 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_80.jpg
+2025-07-23 15:47:39,638 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:43,123 - INFO - Downloaded photo for message 79 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_79.jpg
+2025-07-23 15:47:43,126 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:45,583 - INFO - Downloaded photo for message 78 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_78.jpg
+2025-07-23 15:47:45,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:48,646 - INFO - Downloaded photo for message 77 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_77.jpg
+2025-07-23 15:47:48,688 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:50,745 - INFO - Downloaded photo for message 76 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_76.jpg
+2025-07-23 15:47:50,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:47:56,463 - INFO - Downloaded photo for message 75 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_75.jpg
+2025-07-23 15:47:56,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:00,564 - INFO - Downloaded photo for message 74 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_74.jpg
+2025-07-23 15:48:00,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:06,446 - INFO - Downloaded photo for message 71 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_71.jpg
+2025-07-23 15:48:06,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:09,753 - INFO - Downloaded photo for message 70 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_70.jpg
+2025-07-23 15:48:09,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:16,324 - INFO - Downloaded photo for message 67 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_67.jpg
+2025-07-23 15:48:16,327 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:24,684 - INFO - Downloaded photo for message 64 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_64.jpg
+2025-07-23 15:48:24,685 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:30,691 - INFO - Downloaded photo for message 60 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_60.jpg
+2025-07-23 15:48:30,693 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:33,859 - INFO - Downloaded photo for message 59 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_59.jpg
+2025-07-23 15:48:33,861 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:34,585 - INFO - Downloaded photo for message 58 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_58.jpg
+2025-07-23 15:48:34,587 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:36,893 - INFO - Downloaded photo for message 56 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_56.jpg
+2025-07-23 15:48:37,092 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:39,689 - INFO - Downloaded photo for message 55 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_55.jpg
+2025-07-23 15:48:39,692 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:42,491 - INFO - Downloaded photo for message 53 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_53.jpg
+2025-07-23 15:48:42,822 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:44,429 - INFO - Downloaded photo for message 52 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_52.jpg
+2025-07-23 15:48:44,480 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:47,650 - INFO - Downloaded photo for message 50 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_50.jpg
+2025-07-23 15:48:47,652 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:49,367 - INFO - Downloaded photo for message 49 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_49.jpg
+2025-07-23 15:48:49,674 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:52,519 - INFO - Downloaded photo for message 48 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_48.jpg
+2025-07-23 15:48:52,719 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:54,125 - INFO - Downloaded photo for message 46 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_46.jpg
+2025-07-23 15:48:54,127 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:56,079 - INFO - Downloaded photo for message 45 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_45.jpg
+2025-07-23 15:48:56,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:48:57,569 - INFO - Downloaded photo for message 44 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_44.jpg
+2025-07-23 15:48:57,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:04,386 - INFO - Downloaded photo for message 43 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_43.jpg
+2025-07-23 15:49:04,453 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:07,252 - INFO - Downloaded photo for message 41 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_41.jpg
+2025-07-23 15:49:07,288 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:08,925 - INFO - Downloaded photo for message 40 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_40.jpg
+2025-07-23 15:49:08,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:11,640 - INFO - Downloaded photo for message 39 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_39.jpg
+2025-07-23 15:49:11,643 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:14,033 - INFO - Downloaded photo for message 38 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_38.jpg
+2025-07-23 15:49:14,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:17,802 - INFO - Downloaded photo for message 34 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_34.jpg
+2025-07-23 15:49:18,265 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:21,512 - INFO - Downloaded photo for message 33 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_33.jpg
+2025-07-23 15:49:21,674 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:23,149 - INFO - Downloaded photo for message 32 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_32.jpg
+2025-07-23 15:49:23,151 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:26,828 - INFO - Downloaded photo for message 31 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_31.jpg
+2025-07-23 15:49:26,830 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:29,252 - INFO - Downloaded photo for message 30 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_30.jpg
+2025-07-23 15:49:29,256 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:33,485 - INFO - Downloaded photo for message 29 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_29.jpg
+2025-07-23 15:49:33,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:35,475 - INFO - Downloaded photo for message 27 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_27.jpg
+2025-07-23 15:49:35,477 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:37,530 - INFO - Downloaded photo for message 26 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_26.jpg
+2025-07-23 15:49:37,532 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:38,517 - INFO - Downloaded photo for message 25 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_25.jpg
+2025-07-23 15:49:38,541 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:39,465 - INFO - Downloaded photo for message 23 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_23.jpg
+2025-07-23 15:49:39,557 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:40,471 - INFO - Downloaded photo for message 22 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_22.jpg
+2025-07-23 15:49:40,473 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:44,439 - INFO - Downloaded photo for message 21 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_21.jpg
+2025-07-23 15:49:44,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:47,709 - INFO - Downloaded photo for message 20 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_20.jpg
+2025-07-23 15:49:47,711 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:50,435 - INFO - Downloaded photo for message 19 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_19.jpg
+2025-07-23 15:49:50,438 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:52,097 - INFO - Downloaded photo for message 18 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_18.jpg
+2025-07-23 15:49:52,128 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:55,269 - INFO - Downloaded photo for message 17 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_17.jpg
+2025-07-23 15:49:55,272 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:56,805 - INFO - Downloaded photo for message 15 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_15.jpg
+2025-07-23 15:49:57,027 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:49:59,950 - INFO - Downloaded photo for message 14 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_14.jpg
+2025-07-23 15:49:59,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:03,979 - INFO - Downloaded photo for message 13 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_13.jpg
+2025-07-23 15:50:04,022 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:05,978 - INFO - Downloaded photo for message 11 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_11.jpg
+2025-07-23 15:50:05,981 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:08,883 - INFO - Downloaded photo for message 10 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_10.jpg
+2025-07-23 15:50:08,885 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:09,740 - INFO - Downloaded photo for message 9 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_9.jpg
+2025-07-23 15:50:09,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:10,307 - INFO - Downloaded photo for message 3 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_3.jpg
+2025-07-23 15:50:10,313 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:11,200 - INFO - Downloaded photo for message 2 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_2.jpg
+2025-07-23 15:50:11,296 - INFO - Saved 76 messages to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\messages.json
+2025-07-23 15:50:11,297 - INFO - Processing channel: lobelia4cosmetics
+2025-07-23 15:50:12,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:14,105 - INFO - Downloaded photo for message 18713 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18713.jpg
+2025-07-23 15:50:14,107 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:14,696 - INFO - Downloaded photo for message 18712 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18712.jpg
+2025-07-23 15:50:14,739 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:15,384 - INFO - Downloaded photo for message 18711 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18711.jpg
+2025-07-23 15:50:15,386 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:17,480 - INFO - Downloaded photo for message 18710 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18710.jpg
+2025-07-23 15:50:17,483 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:19,724 - INFO - Downloaded photo for message 18709 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18709.jpg
+2025-07-23 15:50:19,759 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:20,473 - INFO - Downloaded photo for message 18708 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18708.jpg
+2025-07-23 15:50:20,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:21,163 - INFO - Downloaded photo for message 18707 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18707.jpg
+2025-07-23 15:50:21,165 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:21,635 - INFO - Downloaded photo for message 18706 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18706.jpg
+2025-07-23 15:50:21,637 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:22,129 - INFO - Downloaded photo for message 18705 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18705.jpg
+2025-07-23 15:50:22,132 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:24,390 - INFO - Downloaded photo for message 18704 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18704.jpg
+2025-07-23 15:50:24,439 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:25,718 - INFO - Downloaded photo for message 18703 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18703.jpg
+2025-07-23 15:50:25,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:26,123 - INFO - Downloaded photo for message 18702 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18702.jpg
+2025-07-23 15:50:26,230 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:26,667 - INFO - Downloaded photo for message 18701 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18701.jpg
+2025-07-23 15:50:26,695 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:27,006 - INFO - Downloaded photo for message 18700 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18700.jpg
+2025-07-23 15:50:27,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:27,425 - INFO - Downloaded photo for message 18698 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18698.jpg
+2025-07-23 15:50:27,428 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:27,749 - INFO - Downloaded photo for message 18697 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18697.jpg
+2025-07-23 15:50:27,752 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:28,183 - INFO - Downloaded photo for message 18696 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18696.jpg
+2025-07-23 15:50:28,185 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:30,284 - INFO - Downloaded photo for message 18695 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18695.jpg
+2025-07-23 15:50:30,339 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:31,216 - INFO - Downloaded photo for message 18694 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18694.jpg
+2025-07-23 15:50:31,219 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:32,062 - INFO - Downloaded photo for message 18692 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18692.jpg
+2025-07-23 15:50:32,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:34,479 - INFO - Downloaded photo for message 18691 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18691.jpg
+2025-07-23 15:50:34,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:35,739 - INFO - Downloaded photo for message 18690 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18690.jpg
+2025-07-23 15:50:35,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:36,612 - INFO - Downloaded photo for message 18689 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18689.jpg
+2025-07-23 15:50:36,696 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:38,086 - INFO - Downloaded photo for message 18688 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18688.jpg
+2025-07-23 15:50:38,090 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:39,662 - INFO - Downloaded photo for message 18687 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18687.jpg
+2025-07-23 15:50:39,728 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:40,252 - INFO - Downloaded photo for message 18686 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18686.jpg
+2025-07-23 15:50:40,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:40,674 - INFO - Downloaded photo for message 18685 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18685.jpg
+2025-07-23 15:50:40,736 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:41,336 - INFO - Downloaded photo for message 18684 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18684.jpg
+2025-07-23 15:50:41,338 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:42,214 - INFO - Downloaded photo for message 18683 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18683.jpg
+2025-07-23 15:50:42,217 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:42,686 - INFO - Downloaded photo for message 18682 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18682.jpg
+2025-07-23 15:50:42,762 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:44,518 - INFO - Downloaded photo for message 18681 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18681.jpg
+2025-07-23 15:50:44,521 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:44,938 - INFO - Downloaded photo for message 18680 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18680.jpg
+2025-07-23 15:50:44,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:45,828 - INFO - Downloaded photo for message 18679 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18679.jpg
+2025-07-23 15:50:45,857 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:48,022 - INFO - Downloaded photo for message 18678 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18678.jpg
+2025-07-23 15:50:48,068 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:49,551 - INFO - Downloaded photo for message 18677 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18677.jpg
+2025-07-23 15:50:49,582 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:51,026 - INFO - Downloaded photo for message 18676 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18676.jpg
+2025-07-23 15:50:51,028 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:51,541 - INFO - Downloaded photo for message 18674 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18674.jpg
+2025-07-23 15:50:51,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:52,807 - INFO - Downloaded photo for message 18673 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18673.jpg
+2025-07-23 15:50:53,189 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:55,508 - INFO - Downloaded photo for message 18672 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18672.jpg
+2025-07-23 15:50:55,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:56,205 - INFO - Downloaded photo for message 18671 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18671.jpg
+2025-07-23 15:50:56,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:56,755 - INFO - Downloaded photo for message 18670 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18670.jpg
+2025-07-23 15:50:56,824 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:57,377 - INFO - Downloaded photo for message 18669 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18669.jpg
+2025-07-23 15:50:57,408 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:58,003 - INFO - Downloaded photo for message 18668 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18668.jpg
+2025-07-23 15:50:58,005 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:58,359 - INFO - Downloaded photo for message 18667 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18667.jpg
+2025-07-23 15:50:58,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:58,777 - INFO - Downloaded photo for message 18666 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18666.jpg
+2025-07-23 15:50:58,829 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:50:59,945 - INFO - Downloaded photo for message 18665 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18665.jpg
+2025-07-23 15:51:00,043 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:02,470 - INFO - Downloaded photo for message 18664 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18664.jpg
+2025-07-23 15:51:02,472 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:03,133 - INFO - Downloaded photo for message 18663 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18663.jpg
+2025-07-23 15:51:03,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:03,420 - INFO - Downloaded photo for message 18662 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18662.jpg
+2025-07-23 15:51:03,423 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:04,903 - INFO - Downloaded photo for message 18661 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18661.jpg
+2025-07-23 15:51:04,907 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:06,289 - INFO - Downloaded photo for message 18660 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18660.jpg
+2025-07-23 15:51:06,396 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:07,561 - INFO - Downloaded photo for message 18659 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18659.jpg
+2025-07-23 15:51:07,563 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:08,648 - INFO - Downloaded photo for message 18658 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18658.jpg
+2025-07-23 15:51:08,844 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:09,978 - INFO - Downloaded photo for message 18657 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18657.jpg
+2025-07-23 15:51:09,981 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:11,247 - INFO - Downloaded photo for message 18656 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18656.jpg
+2025-07-23 15:51:11,318 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:12,289 - INFO - Downloaded photo for message 18655 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18655.jpg
+2025-07-23 15:51:12,292 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:12,904 - INFO - Downloaded photo for message 18653 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18653.jpg
+2025-07-23 15:51:13,508 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:14,323 - INFO - Downloaded photo for message 18652 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18652.jpg
+2025-07-23 15:51:14,390 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:15,111 - INFO - Downloaded photo for message 18651 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18651.jpg
+2025-07-23 15:51:15,507 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:17,530 - INFO - Downloaded photo for message 18650 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18650.jpg
+2025-07-23 15:51:17,535 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:19,740 - INFO - Downloaded photo for message 18649 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18649.jpg
+2025-07-23 15:51:19,742 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:22,690 - INFO - Downloaded photo for message 18648 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18648.jpg
+2025-07-23 15:51:22,756 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:23,509 - INFO - Downloaded photo for message 18647 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18647.jpg
+2025-07-23 15:51:23,552 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:27,062 - INFO - Downloaded photo for message 18646 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18646.jpg
+2025-07-23 15:51:27,066 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:28,886 - INFO - Downloaded photo for message 18645 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18645.jpg
+2025-07-23 15:51:28,888 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:34,496 - INFO - Downloaded photo for message 18644 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18644.jpg
+2025-07-23 15:51:34,499 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:36,317 - INFO - Downloaded photo for message 18643 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18643.jpg
+2025-07-23 15:51:36,520 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:37,938 - INFO - Downloaded photo for message 18642 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18642.jpg
+2025-07-23 15:51:37,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:41,646 - INFO - Downloaded photo for message 18641 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18641.jpg
+2025-07-23 15:51:41,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:43,878 - INFO - Downloaded photo for message 18640 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18640.jpg
+2025-07-23 15:51:44,019 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:45,108 - INFO - Downloaded photo for message 18638 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18638.jpg
+2025-07-23 15:51:45,687 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:47,204 - INFO - Downloaded photo for message 18637 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18637.jpg
+2025-07-23 15:51:47,207 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:47,617 - INFO - Downloaded photo for message 18636 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18636.jpg
+2025-07-23 15:51:47,635 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:48,547 - INFO - Downloaded photo for message 18635 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18635.jpg
+2025-07-23 15:51:48,550 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:49,076 - INFO - Downloaded photo for message 18634 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18634.jpg
+2025-07-23 15:51:49,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:49,410 - INFO - Downloaded photo for message 18633 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18633.jpg
+2025-07-23 15:51:49,442 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:50,326 - INFO - Downloaded photo for message 18632 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18632.jpg
+2025-07-23 15:51:50,329 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:51,292 - INFO - Downloaded photo for message 18631 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18631.jpg
+2025-07-23 15:51:51,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:52,593 - INFO - Downloaded photo for message 18630 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18630.jpg
+2025-07-23 15:51:52,676 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:53,200 - INFO - Downloaded photo for message 18629 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18629.jpg
+2025-07-23 15:51:53,250 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:53,830 - INFO - Downloaded photo for message 18628 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18628.jpg
+2025-07-23 15:51:53,833 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:55,352 - INFO - Downloaded photo for message 18627 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18627.jpg
+2025-07-23 15:51:55,355 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:56,904 - INFO - Downloaded photo for message 18626 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18626.jpg
+2025-07-23 15:51:56,976 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:57,491 - INFO - Downloaded photo for message 18625 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18625.jpg
+2025-07-23 15:51:57,545 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:58,942 - INFO - Downloaded photo for message 18624 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18624.jpg
+2025-07-23 15:51:58,944 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:51:59,703 - INFO - Downloaded photo for message 18623 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18623.jpg
+2025-07-23 15:51:59,705 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:00,757 - INFO - Downloaded photo for message 18622 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18622.jpg
+2025-07-23 15:52:00,821 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:02,712 - INFO - Downloaded photo for message 18621 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18621.jpg
+2025-07-23 15:52:02,716 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:03,167 - INFO - Downloaded photo for message 18620 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18620.jpg
+2025-07-23 15:52:03,170 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:04,195 - INFO - Downloaded photo for message 18619 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18619.jpg
+2025-07-23 15:52:05,028 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:06,111 - INFO - Downloaded photo for message 18618 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18618.jpg
+2025-07-23 15:52:06,165 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:07,419 - INFO - Downloaded photo for message 18617 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18617.jpg
+2025-07-23 15:52:07,422 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:08,891 - INFO - Downloaded photo for message 18616 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18616.jpg
+2025-07-23 15:52:08,894 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:10,246 - INFO - Downloaded photo for message 18615 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18615.jpg
+2025-07-23 15:52:10,646 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:11,970 - INFO - Downloaded photo for message 18614 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18614.jpg
+2025-07-23 15:52:12,010 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:13,143 - INFO - Downloaded photo for message 18613 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18613.jpg
+2025-07-23 15:52:13,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:14,407 - INFO - Downloaded photo for message 18612 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18612.jpg
+2025-07-23 15:52:14,409 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:15,732 - INFO - Downloaded photo for message 18611 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18611.jpg
+2025-07-23 15:52:15,756 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:16,932 - INFO - Downloaded photo for message 18610 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18610.jpg
+2025-07-23 15:52:16,999 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:17,636 - INFO - Downloaded photo for message 18609 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18609.jpg
+2025-07-23 15:52:17,749 - INFO - Saved 100 messages to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\messages.json
+2025-07-23 15:52:17,750 - INFO - Processing channel: tikvahpharma
+2025-07-23 15:52:19,554 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:21,205 - INFO - Downloaded photo for message 173470 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173470.jpg
+2025-07-23 15:52:21,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:24,739 - INFO - Downloaded photo for message 173469 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173469.jpg
+2025-07-23 15:52:25,237 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:27,827 - INFO - Downloaded photo for message 173457 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173457.jpg
+2025-07-23 15:52:27,831 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:28,337 - INFO - Downloaded photo for message 173443 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173443.jpg
+2025-07-23 15:52:28,455 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:29,395 - INFO - Downloaded photo for message 173429 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173429.jpg
+2025-07-23 15:52:29,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:30,174 - INFO - Downloaded photo for message 173428 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173428.jpg
+2025-07-23 15:52:30,182 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:35,489 - INFO - Downloaded photo for message 173413 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173413.jpg
+2025-07-23 15:52:35,491 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:36,465 - INFO - Downloaded photo for message 173412 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173412.jpg
+2025-07-23 15:52:36,499 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:36,812 - INFO - Downloaded photo for message 173411 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173411.jpg
+2025-07-23 15:52:36,814 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:37,989 - INFO - Downloaded photo for message 173410 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173410.jpg
+2025-07-23 15:52:38,002 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:38,464 - INFO - Downloaded photo for message 173409 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173409.jpg
+2025-07-23 15:52:38,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:38,729 - INFO - Downloaded photo for message 173408 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173408.jpg
+2025-07-23 15:52:38,822 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:39,516 - INFO - Downloaded photo for message 173407 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173407.jpg
+2025-07-23 15:52:39,520 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:40,029 - INFO - Downloaded photo for message 173406 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173406.jpg
+2025-07-23 15:52:40,037 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:45,564 - INFO - Downloaded photo for message 173367 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173367.jpg
+2025-07-23 15:52:45,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:46,818 - INFO - Downloaded photo for message 173349 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173349.jpg
+2025-07-23 15:52:46,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:48,120 - INFO - Downloaded photo for message 173348 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173348.jpg
+2025-07-23 15:52:48,123 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:48,707 - INFO - Downloaded photo for message 173347 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173347.jpg
+2025-07-23 15:52:48,710 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:50,289 - INFO - Downloaded photo for message 173346 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173346.jpg
+2025-07-23 15:52:50,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:51,661 - INFO - Downloaded photo for message 173345 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173345.jpg
+2025-07-23 15:52:51,733 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:53,377 - INFO - Downloaded photo for message 173344 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173344.jpg
+2025-07-23 15:52:53,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:56,599 - INFO - Downloaded photo for message 173343 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173343.jpg
+2025-07-23 15:52:56,601 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:57,891 - INFO - Downloaded photo for message 173342 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173342.jpg
+2025-07-23 15:52:57,894 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:58,504 - INFO - Downloaded photo for message 173341 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173341.jpg
+2025-07-23 15:52:58,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:52:58,845 - INFO - Downloaded photo for message 173340 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173340.jpg
+2025-07-23 15:52:58,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:05,457 - INFO - Downloaded photo for message 173326 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173326.jpg
+2025-07-23 15:53:05,460 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:05,993 - INFO - Downloaded photo for message 173320 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173320.jpg
+2025-07-23 15:53:05,998 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:08,661 - INFO - Downloaded photo for message 173312 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173312.jpg
+2025-07-23 15:53:08,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:09,836 - INFO - Downloaded photo for message 173297 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173297.jpg
+2025-07-23 15:53:09,989 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:14,502 - INFO - Downloaded photo for message 173254 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173254.jpg
+2025-07-23 15:53:14,582 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:17,013 - INFO - Downloaded photo for message 173222 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173222.jpg
+2025-07-23 15:53:17,029 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:18,379 - INFO - Downloaded photo for message 173221 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173221.jpg
+2025-07-23 15:53:18,382 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:18,831 - INFO - Downloaded photo for message 173220 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173220.jpg
+2025-07-23 15:53:18,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:19,093 - INFO - Downloaded photo for message 173219 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173219.jpg
+2025-07-23 15:53:19,097 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:21,192 - INFO - Downloaded photo for message 173207 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173207.jpg
+2025-07-23 15:53:21,196 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:24,847 - INFO - Downloaded photo for message 173201 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173201.jpg
+2025-07-23 15:53:24,852 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:28,974 - INFO - Downloaded photo for message 173181 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173181.jpg
+2025-07-23 15:53:29,090 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:31,365 - INFO - Downloaded photo for message 173180 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173180.jpg
+2025-07-23 15:53:31,367 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 15:53:32,370 - INFO - Downloaded photo for message 173179 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\photo_173179.jpg
+2025-07-23 15:53:32,376 - INFO - Saved 100 messages to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\tikvahpharma\messages.json
+2025-07-23 15:53:32,545 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-23 15:53:32,546 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-23 15:53:32,740 - INFO - Telegram client disconnected
+2025-07-23 15:53:32,741 - INFO - Zipping data lake...
+2025-07-23 16:04:45,085 - INFO - Zipping data lake...
+2025-07-23 16:05:02,490 - INFO - Downloading data lake...
+2025-07-23 16:05:38,522 - INFO - Zipping data lake...
+2025-07-23 16:05:41,432 - INFO - Downloading data lake...
+2025-07-23 16:36:14,136 - INFO - Downloading data lake...
+2025-07-23 16:40:20,829 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-23 16:40:21,197 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-23 16:40:23,577 - INFO - Telegram client initialized
+2025-07-23 16:40:23,579 - INFO - Processing channel: Chemed123
+2025-07-23 16:40:25,502 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:26,418 - INFO - Downloaded photo for message 97 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_97.jpg
+2025-07-23 16:40:26,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:28,940 - INFO - Downloaded photo for message 96 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_96.jpg
+2025-07-23 16:40:28,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:31,140 - INFO - Downloaded photo for message 95 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_95.jpg
+2025-07-23 16:40:31,276 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:33,691 - INFO - Downloaded photo for message 94 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_94.jpg
+2025-07-23 16:40:33,693 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:38,174 - INFO - Downloaded photo for message 93 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_93.jpg
+2025-07-23 16:40:38,218 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:41,902 - INFO - Downloaded photo for message 92 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_92.jpg
+2025-07-23 16:40:41,905 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:44,266 - INFO - Downloaded photo for message 91 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_91.jpg
+2025-07-23 16:40:44,269 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:48,691 - INFO - Downloaded photo for message 90 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_90.jpg
+2025-07-23 16:40:48,692 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:51,964 - INFO - Downloaded photo for message 88 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_88.jpg
+2025-07-23 16:40:51,965 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:55,761 - INFO - Downloaded photo for message 87 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_87.jpg
+2025-07-23 16:40:55,820 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:40:59,179 - INFO - Downloaded photo for message 86 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_86.jpg
+2025-07-23 16:40:59,182 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:00,390 - INFO - Downloaded photo for message 85 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_85.jpg
+2025-07-23 16:41:00,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:02,471 - INFO - Downloaded photo for message 82 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_82.jpg
+2025-07-23 16:41:02,473 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:05,941 - INFO - Downloaded photo for message 81 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_81.jpg
+2025-07-23 16:41:05,942 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:08,988 - INFO - Downloaded photo for message 80 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_80.jpg
+2025-07-23 16:41:08,991 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:13,023 - INFO - Downloaded photo for message 79 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_79.jpg
+2025-07-23 16:41:13,024 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:17,087 - INFO - Downloaded photo for message 78 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_78.jpg
+2025-07-23 16:41:17,119 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:22,279 - INFO - Downloaded photo for message 77 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_77.jpg
+2025-07-23 16:41:22,281 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:26,903 - INFO - Downloaded photo for message 76 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_76.jpg
+2025-07-23 16:41:26,905 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:31,018 - INFO - Downloaded photo for message 75 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_75.jpg
+2025-07-23 16:41:31,021 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:41:32,799 - INFO - Downloaded photo for message 74 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_74.jpg
+2025-07-23 16:41:32,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:20,752 - INFO - Downloaded photo for message 71 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_71.jpg
+2025-07-23 16:42:20,755 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:22,696 - INFO - Downloaded photo for message 70 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_70.jpg
+2025-07-23 16:42:22,701 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:25,930 - INFO - Downloaded photo for message 67 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_67.jpg
+2025-07-23 16:42:25,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:27,518 - INFO - Downloaded photo for message 64 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_64.jpg
+2025-07-23 16:42:27,519 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:28,661 - INFO - Downloaded photo for message 60 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_60.jpg
+2025-07-23 16:42:28,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:30,244 - INFO - Downloaded photo for message 59 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_59.jpg
+2025-07-23 16:42:30,247 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:30,771 - INFO - Downloaded photo for message 58 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_58.jpg
+2025-07-23 16:42:30,772 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:33,928 - INFO - Downloaded photo for message 56 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_56.jpg
+2025-07-23 16:42:33,930 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:39,898 - INFO - Downloaded photo for message 55 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_55.jpg
+2025-07-23 16:42:39,901 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:42,610 - INFO - Downloaded photo for message 53 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_53.jpg
+2025-07-23 16:42:42,638 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:47,727 - INFO - Downloaded photo for message 52 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_52.jpg
+2025-07-23 16:42:47,729 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:42:53,191 - INFO - Downloaded photo for message 50 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_50.jpg
+2025-07-23 16:42:53,378 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:00,127 - INFO - Downloaded photo for message 49 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_49.jpg
+2025-07-23 16:43:00,128 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:09,770 - INFO - Downloaded photo for message 48 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_48.jpg
+2025-07-23 16:43:09,773 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:12,975 - INFO - Downloaded photo for message 46 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_46.jpg
+2025-07-23 16:43:12,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:14,906 - INFO - Downloaded photo for message 45 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_45.jpg
+2025-07-23 16:43:14,908 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:15,895 - INFO - Downloaded photo for message 44 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_44.jpg
+2025-07-23 16:43:15,897 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:19,078 - INFO - Downloaded photo for message 43 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_43.jpg
+2025-07-23 16:43:19,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:22,193 - INFO - Downloaded photo for message 41 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_41.jpg
+2025-07-23 16:43:22,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:23,408 - INFO - Downloaded photo for message 40 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_40.jpg
+2025-07-23 16:43:23,410 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:25,186 - INFO - Downloaded photo for message 39 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_39.jpg
+2025-07-23 16:43:25,189 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:27,451 - INFO - Downloaded photo for message 38 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_38.jpg
+2025-07-23 16:43:27,453 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:29,068 - INFO - Downloaded photo for message 34 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_34.jpg
+2025-07-23 16:43:29,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:31,582 - INFO - Downloaded photo for message 33 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_33.jpg
+2025-07-23 16:43:31,583 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:33,440 - INFO - Downloaded photo for message 32 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_32.jpg
+2025-07-23 16:43:33,443 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:34,565 - INFO - Downloaded photo for message 31 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_31.jpg
+2025-07-23 16:43:34,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:37,371 - INFO - Downloaded photo for message 30 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_30.jpg
+2025-07-23 16:43:37,373 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:40,575 - INFO - Downloaded photo for message 29 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_29.jpg
+2025-07-23 16:43:40,578 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:41,511 - INFO - Downloaded photo for message 27 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_27.jpg
+2025-07-23 16:43:41,514 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:43,080 - INFO - Downloaded photo for message 26 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_26.jpg
+2025-07-23 16:43:43,083 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:44,621 - INFO - Downloaded photo for message 25 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_25.jpg
+2025-07-23 16:43:44,622 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:46,701 - INFO - Downloaded photo for message 23 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_23.jpg
+2025-07-23 16:43:46,703 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:49,110 - INFO - Downloaded photo for message 22 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_22.jpg
+2025-07-23 16:43:49,113 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:50,472 - INFO - Downloaded photo for message 21 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_21.jpg
+2025-07-23 16:43:50,477 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:52,325 - INFO - Downloaded photo for message 20 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_20.jpg
+2025-07-23 16:43:52,327 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:56,262 - INFO - Downloaded photo for message 19 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_19.jpg
+2025-07-23 16:43:56,263 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:43:59,796 - INFO - Downloaded photo for message 18 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_18.jpg
+2025-07-23 16:43:59,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:07,219 - INFO - Downloaded photo for message 17 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_17.jpg
+2025-07-23 16:44:07,269 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:13,991 - INFO - Downloaded photo for message 15 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_15.jpg
+2025-07-23 16:44:13,994 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:16,630 - INFO - Downloaded photo for message 14 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_14.jpg
+2025-07-23 16:44:16,632 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:19,081 - INFO - Downloaded photo for message 13 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_13.jpg
+2025-07-23 16:44:19,084 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:21,087 - INFO - Downloaded photo for message 11 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_11.jpg
+2025-07-23 16:44:21,088 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:23,432 - INFO - Downloaded photo for message 10 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_10.jpg
+2025-07-23 16:44:23,434 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:24,092 - INFO - Downloaded photo for message 9 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_9.jpg
+2025-07-23 16:44:24,095 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:24,766 - INFO - Downloaded photo for message 3 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_3.jpg
+2025-07-23 16:44:24,768 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:25,995 - INFO - Downloaded photo for message 2 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\photo_2.jpg
+2025-07-23 16:44:26,330 - INFO - Saved 76 messages to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\Chemed123\messages.json
+2025-07-23 16:44:26,331 - INFO - Processing channel: lobelia4cosmetics
+2025-07-23 16:44:27,917 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:28,198 - INFO - Downloaded photo for message 18713 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18713.jpg
+2025-07-23 16:44:28,199 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:28,572 - INFO - Downloaded photo for message 18712 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18712.jpg
+2025-07-23 16:44:28,574 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:28,921 - INFO - Downloaded photo for message 18711 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18711.jpg
+2025-07-23 16:44:28,923 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:30,267 - INFO - Downloaded photo for message 18710 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18710.jpg
+2025-07-23 16:44:30,269 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:31,463 - INFO - Downloaded photo for message 18709 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18709.jpg
+2025-07-23 16:44:31,466 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:32,288 - INFO - Downloaded photo for message 18708 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18708.jpg
+2025-07-23 16:44:32,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:32,992 - INFO - Downloaded photo for message 18707 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18707.jpg
+2025-07-23 16:44:32,994 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:33,812 - INFO - Downloaded photo for message 18706 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18706.jpg
+2025-07-23 16:44:33,814 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:34,192 - INFO - Downloaded photo for message 18705 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18705.jpg
+2025-07-23 16:44:34,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:34,956 - INFO - Downloaded photo for message 18704 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18704.jpg
+2025-07-23 16:44:34,958 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:35,835 - INFO - Downloaded photo for message 18703 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18703.jpg
+2025-07-23 16:44:35,838 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:36,257 - INFO - Downloaded photo for message 18702 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18702.jpg
+2025-07-23 16:44:36,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:36,547 - INFO - Downloaded photo for message 18701 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18701.jpg
+2025-07-23 16:44:36,550 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:36,841 - INFO - Downloaded photo for message 18700 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18700.jpg
+2025-07-23 16:44:36,844 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:37,316 - INFO - Downloaded photo for message 18698 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18698.jpg
+2025-07-23 16:44:37,319 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:37,647 - INFO - Downloaded photo for message 18697 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18697.jpg
+2025-07-23 16:44:37,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:38,061 - INFO - Downloaded photo for message 18696 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18696.jpg
+2025-07-23 16:44:38,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:39,797 - INFO - Downloaded photo for message 18695 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18695.jpg
+2025-07-23 16:44:39,798 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:40,972 - INFO - Downloaded photo for message 18694 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18694.jpg
+2025-07-23 16:44:40,974 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:41,914 - INFO - Downloaded photo for message 18692 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18692.jpg
+2025-07-23 16:44:41,916 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:44,444 - INFO - Downloaded photo for message 18691 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18691.jpg
+2025-07-23 16:44:44,446 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:47,980 - INFO - Downloaded photo for message 18690 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18690.jpg
+2025-07-23 16:44:48,065 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:48,450 - INFO - Downloaded photo for message 18689 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18689.jpg
+2025-07-23 16:44:48,453 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:49,356 - INFO - Downloaded photo for message 18688 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18688.jpg
+2025-07-23 16:44:49,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:50,649 - INFO - Downloaded photo for message 18687 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18687.jpg
+2025-07-23 16:44:50,652 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:50,998 - INFO - Downloaded photo for message 18686 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18686.jpg
+2025-07-23 16:44:51,001 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:51,453 - INFO - Downloaded photo for message 18685 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18685.jpg
+2025-07-23 16:44:51,456 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:51,942 - INFO - Downloaded photo for message 18684 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18684.jpg
+2025-07-23 16:44:51,944 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:52,485 - INFO - Downloaded photo for message 18683 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18683.jpg
+2025-07-23 16:44:52,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:52,871 - INFO - Downloaded photo for message 18682 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18682.jpg
+2025-07-23 16:44:52,873 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:55,416 - INFO - Downloaded photo for message 18681 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18681.jpg
+2025-07-23 16:44:55,418 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:55,888 - INFO - Downloaded photo for message 18680 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18680.jpg
+2025-07-23 16:44:55,890 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:57,654 - INFO - Downloaded photo for message 18679 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18679.jpg
+2025-07-23 16:44:57,657 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:44:59,857 - INFO - Downloaded photo for message 18678 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18678.jpg
+2025-07-23 16:44:59,859 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:01,445 - INFO - Downloaded photo for message 18677 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18677.jpg
+2025-07-23 16:45:01,448 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:03,116 - INFO - Downloaded photo for message 18676 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18676.jpg
+2025-07-23 16:45:03,118 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:04,170 - INFO - Downloaded photo for message 18674 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18674.jpg
+2025-07-23 16:45:04,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:06,333 - INFO - Downloaded photo for message 18673 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18673.jpg
+2025-07-23 16:45:06,336 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:06,984 - INFO - Downloaded photo for message 18672 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18672.jpg
+2025-07-23 16:45:06,986 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:07,353 - INFO - Downloaded photo for message 18671 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18671.jpg
+2025-07-23 16:45:07,355 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:07,738 - INFO - Downloaded photo for message 18670 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18670.jpg
+2025-07-23 16:45:07,740 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:08,273 - INFO - Downloaded photo for message 18669 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18669.jpg
+2025-07-23 16:45:08,276 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:08,829 - INFO - Downloaded photo for message 18668 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18668.jpg
+2025-07-23 16:45:08,832 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:09,398 - INFO - Downloaded photo for message 18667 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18667.jpg
+2025-07-23 16:45:09,400 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:10,031 - INFO - Downloaded photo for message 18666 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18666.jpg
+2025-07-23 16:45:10,033 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:10,929 - INFO - Downloaded photo for message 18665 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18665.jpg
+2025-07-23 16:45:10,931 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:13,251 - INFO - Downloaded photo for message 18664 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18664.jpg
+2025-07-23 16:45:13,253 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:15,051 - INFO - Downloaded photo for message 18663 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18663.jpg
+2025-07-23 16:45:15,053 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:15,906 - INFO - Downloaded photo for message 18662 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18662.jpg
+2025-07-23 16:45:15,908 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:17,984 - INFO - Downloaded photo for message 18661 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18661.jpg
+2025-07-23 16:45:17,986 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:18,276 - INFO - Downloaded photo for message 18660 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18660.jpg
+2025-07-23 16:45:18,277 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:18,643 - INFO - Downloaded photo for message 18659 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18659.jpg
+2025-07-23 16:45:18,645 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:20,359 - INFO - Downloaded photo for message 18658 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18658.jpg
+2025-07-23 16:45:20,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:22,187 - INFO - Downloaded photo for message 18657 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18657.jpg
+2025-07-23 16:45:22,190 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:23,790 - INFO - Downloaded photo for message 18656 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18656.jpg
+2025-07-23 16:45:23,792 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:26,054 - INFO - Downloaded photo for message 18655 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18655.jpg
+2025-07-23 16:45:26,056 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:27,815 - INFO - Downloaded photo for message 18653 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18653.jpg
+2025-07-23 16:45:27,817 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:28,791 - INFO - Downloaded photo for message 18652 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18652.jpg
+2025-07-23 16:45:28,795 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:29,356 - INFO - Downloaded photo for message 18651 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18651.jpg
+2025-07-23 16:45:29,359 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:30,571 - INFO - Downloaded photo for message 18650 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18650.jpg
+2025-07-23 16:45:30,573 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:32,653 - INFO - Downloaded photo for message 18649 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18649.jpg
+2025-07-23 16:45:32,655 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:39,673 - INFO - Downloaded photo for message 18648 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18648.jpg
+2025-07-23 16:45:39,675 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:40,140 - INFO - Downloaded photo for message 18647 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18647.jpg
+2025-07-23 16:45:40,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:43,726 - INFO - Downloaded photo for message 18646 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18646.jpg
+2025-07-23 16:45:43,727 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:45,543 - INFO - Downloaded photo for message 18645 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18645.jpg
+2025-07-23 16:45:45,545 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:49,226 - INFO - Downloaded photo for message 18644 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18644.jpg
+2025-07-23 16:45:49,228 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:52,693 - INFO - Downloaded photo for message 18643 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18643.jpg
+2025-07-23 16:45:52,696 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:54,481 - INFO - Downloaded photo for message 18642 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18642.jpg
+2025-07-23 16:45:54,483 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:56,128 - INFO - Downloaded photo for message 18641 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18641.jpg
+2025-07-23 16:45:56,130 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:45:57,602 - INFO - Downloaded photo for message 18640 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18640.jpg
+2025-07-23 16:45:57,603 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:01,644 - INFO - Downloaded photo for message 18638 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18638.jpg
+2025-07-23 16:46:01,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:07,216 - INFO - Downloaded photo for message 18637 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18637.jpg
+2025-07-23 16:46:07,218 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:08,187 - INFO - Downloaded photo for message 18636 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18636.jpg
+2025-07-23 16:46:08,189 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:10,560 - INFO - Downloaded photo for message 18635 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18635.jpg
+2025-07-23 16:46:10,562 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:12,399 - INFO - Downloaded photo for message 18634 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18634.jpg
+2025-07-23 16:46:12,400 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:13,627 - INFO - Downloaded photo for message 18633 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18633.jpg
+2025-07-23 16:46:13,629 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:14,160 - INFO - Downloaded photo for message 18632 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18632.jpg
+2025-07-23 16:46:14,161 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:15,549 - INFO - Downloaded photo for message 18631 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18631.jpg
+2025-07-23 16:46:15,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:17,345 - INFO - Downloaded photo for message 18630 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18630.jpg
+2025-07-23 16:46:17,347 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:17,966 - INFO - Downloaded photo for message 18629 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18629.jpg
+2025-07-23 16:46:18,004 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:19,729 - INFO - Downloaded photo for message 18628 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18628.jpg
+2025-07-23 16:46:19,732 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:23,249 - INFO - Downloaded photo for message 18627 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18627.jpg
+2025-07-23 16:46:23,251 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:25,295 - INFO - Downloaded photo for message 18626 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18626.jpg
+2025-07-23 16:46:25,298 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:26,133 - INFO - Downloaded photo for message 18625 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18625.jpg
+2025-07-23 16:46:26,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:29,223 - INFO - Downloaded photo for message 18624 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18624.jpg
+2025-07-23 16:46:29,224 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:29,889 - INFO - Downloaded photo for message 18623 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18623.jpg
+2025-07-23 16:46:29,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:30,457 - INFO - Downloaded photo for message 18622 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18622.jpg
+2025-07-23 16:46:30,459 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:32,643 - INFO - Downloaded photo for message 18621 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18621.jpg
+2025-07-23 16:46:32,645 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:33,059 - INFO - Downloaded photo for message 18620 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18620.jpg
+2025-07-23 16:46:33,060 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:34,182 - INFO - Downloaded photo for message 18619 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18619.jpg
+2025-07-23 16:46:34,184 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:35,284 - INFO - Downloaded photo for message 18618 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18618.jpg
+2025-07-23 16:46:35,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:36,113 - INFO - Downloaded photo for message 18617 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18617.jpg
+2025-07-23 16:46:36,115 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:37,446 - INFO - Downloaded photo for message 18616 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18616.jpg
+2025-07-23 16:46:37,449 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:39,813 - INFO - Downloaded photo for message 18615 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18615.jpg
+2025-07-23 16:46:39,836 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:41,645 - INFO - Downloaded photo for message 18614 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18614.jpg
+2025-07-23 16:46:41,648 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:43,383 - INFO - Downloaded photo for message 18613 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18613.jpg
+2025-07-23 16:46:43,386 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:44,401 - INFO - Downloaded photo for message 18612 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18612.jpg
+2025-07-23 16:46:44,404 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:45,552 - INFO - Downloaded photo for message 18611 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18611.jpg
+2025-07-23 16:46:45,554 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:47,334 - INFO - Downloaded photo for message 18610 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18610.jpg
+2025-07-23 16:46:47,336 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-23 16:46:47,702 - INFO - Downloaded photo for message 18609 to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\photo_18609.jpg
+2025-07-23 16:46:47,707 - INFO - Saved 100 messages to F:\Intelligent_Ethiopian_Medical_Business_peplines-\data\raw\telegram_messages\2025-07-23\lobelia4cosmetics\messages.json
+2025-07-23 16:46:47,709 - INFO - Processing channel: Thequorachannel
+2025-07-23 16:46:47,920 - ERROR - Error processing channel Thequorachannel: Cannot find any entity corresponding to "t.me/tikvahpharmat.me/Thequorachannel"
+2025-07-23 16:46:47,995 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-23 16:46:48,052 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-23 16:46:48,504 - INFO - Telegram client disconnected
+2025-07-23 16:46:48,505 - INFO - Zipping data lake...

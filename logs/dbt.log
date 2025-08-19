@@ -1,0 +1,104 @@
+[0m13:41:12.338619 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000015BBC0E1790>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000015BB9A349E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000015BB9A348C0>]}
+
+
+============================== 13:41:12.911088 | c73ca394-47a2-4a41-9434-d6f1dbe941aa ==============================
+[0m13:41:12.911088 [info ] [MainThread]: Running with dbt=1.10.9
+[0m13:41:12.912250 [debug] [MainThread]: running dbt with arguments {'partial_parse': 'True', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True', 'use_colors': 'True', 'cache_selected_only': 'False', 'target_path': 'None', 'warn_error': 'None', 'invocation_command': 'dbt init kara_medical_project', 'log_format': 'default', 'version_check': 'True', 'introspect': 'True', 'debug': 'False', 'log_cache_events': 'False', 'fail_fast': 'False', 'no_print': 'None', 'empty': 'None', 'printer_width': '80', 'quiet': 'False', 'use_experimental_parser': 'False', 'log_path': 'logs', 'indirect_selection': 'eager', 'write_json': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'profiles_dir': 'F:\\Intelligent_Ethiopian_Medical_Business_peplines-'}
+[0m13:41:16.719896 [debug] [MainThread]: Starter project path: F:\Intelligent_Ethiopian_Medical_Business_peplines-\.venv\Lib\site-packages\dbt\include\starter_project
+[0m13:41:17.295399 [info ] [MainThread]: 
+Your new dbt project "kara_medical_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m13:41:17.297352 [info ] [MainThread]: Setting up your profile.
+[0m13:46:40.956273 [info ] [MainThread]: Profile kara_medical_project written to F:\Intelligent_Ethiopian_Medical_Business_peplines-\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m13:46:40.987173 [debug] [MainThread]: Command `dbt init` succeeded at 13:46:40.959248 after 332.08 seconds
+[0m13:46:40.988170 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000015BBC7F6BA0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000015BBBC51430>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000015BBBC51D00>]}
+[0m13:46:40.989168 [debug] [MainThread]: Flushing usage events
+[0m13:46:42.341549 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m22:27:14.111868 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F432E5EE70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F43268C170>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F4334B3350>]}
+
+
+============================== 22:27:14.294549 | 51a6e93a-b060-4553-942e-3893cf259849 ==============================
+[0m22:27:14.294549 [info ] [MainThread]: Running with dbt=1.10.9
+[0m22:27:14.296532 [debug] [MainThread]: running dbt with arguments {'partial_parse': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True', 'version_check': 'True', 'cache_selected_only': 'False', 'target_path': 'None', 'use_colors': 'True', 'invocation_command': 'dbt debug', 'log_format': 'default', 'warn_error': 'None', 'introspect': 'True', 'debug': 'False', 'printer_width': '80', 'fail_fast': 'False', 'no_print': 'None', 'use_experimental_parser': 'False', 'quiet': 'False', 'empty': 'None', 'log_cache_events': 'False', 'indirect_selection': 'eager', 'log_path': 'logs', 'profiles_dir': 'F:\\Intelligent_Ethiopian_Medical_Business_peplines-', 'static_parser': 'True', 'write_json': 'True'}
+[0m22:27:16.783132 [info ] [MainThread]: dbt version: 1.10.9
+[0m22:27:16.784496 [info ] [MainThread]: python version: 3.12.0
+[0m22:27:16.785118 [info ] [MainThread]: python path: F:\Intelligent_Ethiopian_Medical_Business_peplines-\.venv\Scripts\python.exe
+[0m22:27:16.786116 [info ] [MainThread]: os info: Windows-10-10.0.19045-SP0
+[0m22:27:19.229749 [info ] [MainThread]: Using profiles dir at F:\Intelligent_Ethiopian_Medical_Business_peplines-
+[0m22:27:19.231745 [info ] [MainThread]: Using profiles.yml file at F:\Intelligent_Ethiopian_Medical_Business_peplines-\profiles.yml
+[0m22:27:19.232719 [info ] [MainThread]: Using dbt_project.yml file at F:\Intelligent_Ethiopian_Medical_Business_peplines-\dbt_project.yml
+[0m22:27:19.234708 [info ] [MainThread]: adapter type: postgres
+[0m22:27:19.235708 [info ] [MainThread]: adapter version: 1.9.0
+[0m22:27:19.236704 [info ] [MainThread]: Configuration:
+[0m22:27:19.237703 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m22:27:19.238699 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m22:27:19.240693 [info ] [MainThread]: Required dependencies:
+[0m22:27:19.241690 [debug] [MainThread]: Executing "git --help"
+[0m22:27:19.606324 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m22:27:19.607320 [debug] [MainThread]: STDERR: "b''"
+[0m22:27:19.608317 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m22:27:19.609329 [info ] [MainThread]: Connection:
+[0m22:27:19.611309 [info ] [MainThread]:   host: localhost
+[0m22:27:19.612605 [info ] [MainThread]:   port: 5432
+[0m22:27:19.613304 [info ] [MainThread]:   user: postgres
+[0m22:27:19.614302 [info ] [MainThread]:   database: kara_db
+[0m22:27:19.615300 [info ] [MainThread]:   schema: analytics
+[0m22:27:19.616296 [info ] [MainThread]:   connect_timeout: 10
+[0m22:27:19.616296 [info ] [MainThread]:   role: None
+[0m22:27:19.617295 [info ] [MainThread]:   search_path: None
+[0m22:27:19.618291 [info ] [MainThread]:   keepalives_idle: 0
+[0m22:27:19.621284 [info ] [MainThread]:   sslmode: None
+[0m22:27:19.631383 [info ] [MainThread]:   sslcert: None
+[0m22:27:19.632253 [info ] [MainThread]:   sslkey: None
+[0m22:27:19.633251 [info ] [MainThread]:   sslrootcert: None
+[0m22:27:19.634258 [info ] [MainThread]:   application_name: dbt
+[0m22:27:19.636255 [info ] [MainThread]:   retries: 1
+[0m22:27:19.638238 [info ] [MainThread]: Registered adapter: postgres=1.9.0
+[0m22:27:22.913803 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m22:27:30.489121 [debug] [MainThread]: Using postgres connection "debug"
+[0m22:27:30.490453 [debug] [MainThread]: On debug: select 1 as id
+[0m22:27:30.491103 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m22:27:36.154664 [debug] [MainThread]: Postgres adapter: Got a retryable error when attempting to open a postgres connection.
+1 attempts remaining. Retrying in 0 seconds.
+Error:
+connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+[0m22:27:36.211121 [debug] [MainThread]: Postgres adapter: Error running SQL: select 1 as id
+[0m22:27:36.212063 [debug] [MainThread]: Postgres adapter: Rolling back transaction.
+[0m22:27:36.213059 [debug] [MainThread]: On debug: No close available on handle
+[0m22:27:36.214059 [info ] [MainThread]:   Connection test: [[31mERROR[0m]
+
+[0m22:27:36.215054 [info ] [MainThread]: [31m2 checks failed:[0m
+[0m22:27:36.216091 [info ] [MainThread]: Project loading failed for the following reason:
+ project path <F:\Intelligent_Ethiopian_Medical_Business_peplines-\dbt_project.yml> not found
+
+[0m22:27:36.217049 [info ] [MainThread]: dbt was unable to connect to the specified database.
+The database returned the following error:
+
+  >Database Error
+  connection to server at "localhost" (127.0.0.1), port 5432 failed: FATAL:  password authentication failed for user "postgres"
+  
+
+Check your database credentials and try again. For more information, visit:
+https://docs.getdbt.com/docs/configure-your-profile
+
+
+[0m22:27:36.251955 [debug] [MainThread]: Command `dbt debug` failed at 22:27:36.219045 after 22.84 seconds
+[0m22:27:36.252953 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m22:27:36.253950 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F430BAC230>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F432BEF0E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F4304174A0>]}
+[0m22:27:36.254947 [debug] [MainThread]: Flushing usage events
+[0m22:27:40.302628 [debug] [MainThread]: An error was encountered while trying to flush usage events

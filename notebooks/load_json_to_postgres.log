@@ -1,0 +1,1 @@
+2025-08-18 09:38:33,011 - ERROR - Fatal error in load_json_to_postgres: Could not parse SQLAlchemy URL from given URL string
