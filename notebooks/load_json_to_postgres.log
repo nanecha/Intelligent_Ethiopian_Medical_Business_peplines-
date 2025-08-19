@@ -1,1 +1,3 @@
 2025-08-18 09:38:33,011 - ERROR - Fatal error in load_json_to_postgres: Could not parse SQLAlchemy URL from given URL string
+2025-08-19 19:56:38,139 - INFO - Connected to PostgreSQL database
+2025-08-19 19:56:38,758 - ERROR - Fatal error in load_json_to_postgres: Not an executable object: 'CREATE SCHEMA IF NOT EXISTS raw'
