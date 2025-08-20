@@ -208,4 +208,61 @@ data/
 
 ```bash
 python src/etl/scrape_telegram.py --channel chemed --days_back 5
+
+```
+ # 📊 Task-2 Data Modeling and Transformation (Transform) (dbt)
+
+This project transforms raw Telegram messages into a clean **star schema** in PostgreSQL using **dbt**.
+
+---
+
+## 📂 Project Structure
+```
+models/
+  dim_channels.sql   -- Channel info
+  dim_dates.sql      -- Calendar/date
+  fact_messages.sql  -- Message metrics
+  schema.yml         -- Tests & docs
+```
+
+---
+
+## 🚀 Usage
+1. Install dbt (Postgres):
+   ```bash
+   pip install dbt-postgres
+   ```
+2. Configure your connection in `profiles.yml`.
+3. Run models:
+   ```bash
+   dbt run
+   ```
+4. Run tests:
+   ```bash
+   dbt test
+   ```
+
+---
+
+## 📐 Star Schema
+- **dim_channels** → Telegram channel info  
+- **dim_dates** → Calendar breakdown  
+- **fact_messages** → Views, forwards, media type, text  
+
+---
+
+## 🔎 Example Query
+```sql
+-- Top 5 most viewed posts
+SELECT 
+    c.channel_name,
+    f.message_id,
+    f.views,
+    f.media_type,
+    f.date
+FROM analytics.fact_messages f
+JOIN analytics.dim_channels c
+  ON f.sender_id = c.sender_id
+ORDER BY f.views DESC
+LIMIT 5;
 ```
