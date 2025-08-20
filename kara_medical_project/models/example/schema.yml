@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: dim_channels
+    tests:
+      - unique:
+          column_name: channel_key
+      - not_null:
+          column_name: channel_key
+
+  - name: fct_messages
+    tests:
+      - not_null:
+          column_name: message_id
+
+  - name: dim_dates
+    tests:
+      - unique:
+          column_name: date_key
+

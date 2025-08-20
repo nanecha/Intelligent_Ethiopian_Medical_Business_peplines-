@@ -1,0 +1,14 @@
+kara_medical_project:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: n5090
+      port: 5432
+      dbname: kara_medical_db
+      schema: public
+      threads: 1
+
+
