@@ -330,6 +330,7 @@ These help monitor object detection performance and provide insights into enrich
 ---
 
 ## 🔧 Requirements
+
 - Python 3.9+
 - PostgreSQL
 - Packages: `ultralytics`, `matplotlib`, `psycopg2`, `pandas`
@@ -337,3 +338,98 @@ These help monitor object detection performance and provide insights into enrich
 ---
 
 ✅ With this pipeline, raw images are automatically processed, detected objects are stored in a **data warehouse**, and insights can be visualized for downstream analytics.
+
+
+# 📊 Task 4 – Build an Analytical API with FastAPI  
+
+This task sets up an **Analytical API** using **FastAPI** to query the processed medical channel data (stored in PostgreSQL + dbt models). The API provides endpoints to extract insights for business use cases.  
+
+---
+
+## ⚙️ Setup  
+
+### 1. Install Dependencies  
+```bash
+pip install fastapi uvicorn psycopg2-binary sqlalchemy pydantic
+```
+
+### 2. Project Structure  
+```
+my_project/
+├── main.py        # FastAPI entry point
+├── database.py    # DB connection (SQLAlchemy + PostgreSQL)
+├── models.py      # SQLAlchemy models (tables)
+├── schemas.py     # Pydantic schemas (response validation)
+└── crud.py        # Business query logic
+```
+
+---
+
+## 🚀 Running the API  
+Start the server with:  
+```bash
+uvicorn my_project.main:app --reload
+```
+
+Visit:  
+- 👉 [Swagger Docs](http://127.0.0.1:8000/docs)  
+- 👉 [Redoc UI](http://127.0.0.1:8000/redoc)  
+
+---
+
+## 📌 Endpoints  
+
+### 1. **Top Products**  
+Get most frequently mentioned products:  
+```http
+GET /api/reports/top-products?limit=10
+```
+Response:  
+```json
+[
+  { "product_name": "paracetamol", "count": 120 },
+  { "product_name": "amoxicillin", "count": 85 }
+]
+```
+
+---
+
+### 2. **Channel Activity**  
+Get posting activity (daily counts) for a channel:  
+```http
+GET /api/channels/{channel_name}/activity
+```
+Response:  
+```json
+[
+  { "date": "2025-08-01", "count": 45 },
+  { "date": "2025-08-02", "count": 38 }
+]
+```
+
+---
+
+### 3. **Search Messages**  
+Search for messages containing a keyword:  
+```http
+GET /api/search/messages?query=paracetamol
+```
+Response:  
+```json
+[
+  {
+    "id": 101,
+    "channel_name": "tikva",
+    "message_text": "Paracetamol 500mg available at discount",
+    "posted_at": "2025-08-12T10:30:00"
+  }
+]
+```
+
+---
+
+## ✅ Features  
+- Built with **FastAPI** + **SQLAlchemy**  
+- Modular structure for scalability  
+- Automatic API documentation  
+- Queries final **dbt models (data marts)** for analytics  
