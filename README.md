@@ -266,3 +266,74 @@ JOIN analytics.dim_channels c
 ORDER BY f.views DESC
 LIMIT 5;
 ```
+  # Task 3 - Data Enrichment with Object Detection (YOLO)
+
+This task uses a modern, pre-trained **YOLOv8 model** to analyze images and enrich data with detected objects. The results are stored in a PostgreSQL data warehouse for further analytics and visualization.
+
+---
+
+## 🚀 Workflow
+1. **Setup YOLOv8 model**
+   ```python
+   from ultralytics import YOLO
+   model = YOLO("yolov8n.pt")  # Pre-trained YOLOv8 nano model
+   ```
+
+2. **Run detection on image folders**
+   ```python
+   detections = run_yolo_on_folders()
+   ```
+
+3. **Store results in PostgreSQL**
+   ```python
+   create_table_if_not_exists()
+   insert_detections(detections)
+   ```
+
+4. **Query enriched detections**
+   ```sql
+   SELECT * FROM analytics.fct_image_detections LIMIT 10;
+   ```
+
+5. **Visualize insights**
+   - Count of detected object classes  
+   - Confidence score distribution  
+
+   ```python
+   df['detected_object_class'].value_counts().plot(kind="bar")
+   df['confidence_score'].hist(bins=20)
+   ```
+
+---
+
+## 🗄️ Database Schema
+
+Table: **`analytics.fct_image_detections`**
+
+| Column                  | Type      | Description                       |
+|--------------------------|----------|-----------------------------------|
+| `id`                    | SERIAL   | Primary key                       |
+| `image_path`            | TEXT     | Path of the analyzed image         |
+| `detected_object_class` | TEXT     | Class label of the detected object |
+| `confidence_score`      | FLOAT    | Model confidence (0–1)             |
+| `detected_at`           | TIMESTAMP | Time of detection insertion        |
+
+---
+
+## 📊 Example Visualization
+
+- **Detected Object Counts**
+- **Confidence Distribution**
+
+These help monitor object detection performance and provide insights into enriched datasets.
+
+---
+
+## 🔧 Requirements
+- Python 3.9+
+- PostgreSQL
+- Packages: `ultralytics`, `matplotlib`, `psycopg2`, `pandas`
+
+---
+
+✅ With this pipeline, raw images are automatically processed, detected objects are stored in a **data warehouse**, and insights can be visualized for downstream analytics.
