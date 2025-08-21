@@ -1,20 +1,17 @@
-version: 2
-
 models:
-  - name: dim_channels
-    tests:
-      - unique:
-          column_name: channel_key
-      - not_null:
-          column_name: channel_key
-
-  - name: fct_messages
-    tests:
-      - not_null:
-          column_name: message_id
-
-  - name: dim_dates
-    tests:
-      - unique:
-          column_name: date_key
-
+  - name: fct_image_detections
+    description: "Object detection results linked to Telegram messages"
+    columns:
+      - name: message_id
+        description: "FK → fact_messages"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('fact_messages')
+              field: message_id
+      - name: detected_object_class
+        description: "Class name detected by YOLO"
+        tests:
+          - not_null
+      - name: confidence_score
+        description: "YOLO confidence score"
