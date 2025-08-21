@@ -433,3 +433,34 @@ Response:
 - Modular structure for scalability  
 - Automatic API documentation  
 - Queries final **dbt models (data marts)** for analytics  
+
+
+# Task 5 - Analytical Dashboard Integration
+
+## 📌 Overview
+In this task, we integrate the results from the **Analytical API (Task 4)** into a dashboard.  
+The dashboard provides **visual insights** into products, channels, and detected objects from the data warehouse.  
+It enables stakeholders to explore trends and patterns easily.
+
+---
+
+## ⚙️ Steps
+
+### 1. Data Source
+- Data comes from **FastAPI analytical endpoints** (Task 4).
+- Example endpoints:
+  - `/api/reports/top-products`
+  - `/api/channels/{channel_name}/activity`
+  - `/api/search/messages?query=paracetamol`
+
+### 2. Dashboard Technology
+You can implement the dashboard using:
+- **Streamlit** (Python-based, simple and fast)  
+- or **React + Recharts** (JS-based, more customizable).  
+
+For simplicity, we used **Streamlit**.
+
+### 3. Implementation
+Install Streamlit:
+```bash
+pip install streamlit requests matplotlib pandas
